@@ -1,3 +1,4 @@
+#KNN - K-Nearest Neighbors
 ## Lưu ý :
 - Nên chuẩn hóa dữ liệu trong khoảng từ 0-> 1 để làm giảm ảnh hưởng của Noise
 - Thường dùng kỹ thuật Data Normalization để chuẩn hóa
